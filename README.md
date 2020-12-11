@@ -4,8 +4,7 @@ What you will find in this repository are my attempts to solve some (most?) of t
 
 I am studying the subject at my own pace and using python as programming language for anything involved.
 
-**Remark**: This is not an official source by any mean, solutions may be error prone. 
+**Remark**: This is not an official source by any mean, solutions may be error prone. Suggestions and corrections are always welcomed.
 
-Suggestions and corrections are always welcomed.
-
+**Issues**: Some latex equations do not render on Github, while I have no issue on local machines. As before, suggestions are welcomed.
  
